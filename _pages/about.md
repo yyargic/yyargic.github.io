@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yigit Yargic's website -- under construction"
+title: "Yigit Yargic's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! You're early here. Come back again later.
+Hello! This website is under construction. You're early here. Please come back again later.
