@@ -25,9 +25,11 @@ Work experience
 
 <details>
   <summary style="margin-bottom: 10px;"><strong>Microsoft Research</strong>, Research Software Development Engineer, Nov 2021 - May 2023</summary>
-  <p>Joined a physics-AI research collaboration, studying the relation between matrix models and quantum field theory.</p>
-  <p>Presented progress reports twice weekly in team meetings, discussing new findings and challenges.</p>
-  <p>Led a team of 5 regular members and 3 interns, authored 3 publications. Oversaw intern recruitment and selection process, evaluating candidates and mentoring 3 successful hires.</p>
+  <p style="margin-left: 10px;">
+    <li>Joined a physics-AI research collaboration, studying the relation between matrix models and quantum field theory.</li>
+    <li>Presented progress reports twice weekly in team meetings, discussing new findings and challenges.</li>
+    <li>Led a team of 5 regular members and 3 interns, authored 3 publications. Oversaw intern recruitment and selection process, evaluating candidates and mentoring 3 successful hires.</li>
+  </p>
 </details>
 
 <details>
