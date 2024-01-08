@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! You're early here.
+Hello! You're early here. Come back again later.
