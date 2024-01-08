@@ -18,25 +18,26 @@ Education
 
 Work experience
 ======
-<details>
-  <summary style="margin-bottom: 10px;"><strong>University of Calgary</strong>, Postdoctoral Researcher, Jun 2023 - present</summary>
-  <p>Investigating the benefits of inductive bias for computer vision tasks with deep neural networks.</p>
-</details>
-
-<details>
-  <summary style="margin-bottom: 10px;"><strong>Microsoft Research</strong>, Research Software Development Engineer, Nov 2021 - May 2023</summary>
-  <p style="margin-left: 10px;">
+<ul>
+  <li><strong>University of Calgary</strong>, Postdoctoral Researcher<br>
+  Jun 2023 - present</li>
+  <ul>
+    <li>Investigating the benefits of inductive bias for computer vision tasks with deep neural networks.</li>
+  </ul>
+  <li><strong>Microsoft Research</strong>, Research Software Development Engineer<br>
+  Nov 2021 - May 2023</li>
+  <ul>
     <li>Joined a physics-AI research collaboration, studying the relation between matrix models and quantum field theory.</li>
     <li>Presented progress reports twice weekly in team meetings, discussing new findings and challenges.</li>
     <li>Led a team of 5 regular members and 3 interns, authored 3 publications. Oversaw intern recruitment and selection process, evaluating candidates and mentoring 3 successful hires.</li>
-  </p>
-</details>
-
-<details>
-  <summary style="margin-bottom: 10px;"><strong>Microsoft Research</strong>, Intern, Jun 2021 - Nov 2021</summary>
-  <p>Joined a physics-AI research collaboration, studying loss optimization and stationary action principle.</p>
-  <p>Prepared weekly research progress reports, contributing valuable insights, which led to being hired.</p>
-</details>
+  </ul>
+  <li><strong>Microsoft Research</strong>, Intern<br>
+  Jun 2021 - Nov 2021</li>
+  <ul>
+    <li>Joined a physics-AI research collaboration, studying loss optimization and stationary action principle.</li>
+    <li>Prepared weekly research progress reports, contributing valuable insights, which led to being hired.</li>
+  </ul>
+</ul>
   
 Skills
 ======
