@@ -11,12 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics, University of Waterloo & Perimeter Institute, 2021
+* M.Sc in Physics, University of Waterloo & Perimeter Institute, 2017
+* M.Sc in Theoretical and Mathematical Physics, LMU Munich & Max Planck Institute, 2016
+* B.Sc in Physics, LMU Munich, 2014
 
 Work experience
 ======
+<details>
+  <summary style="font-size: 18px; margin-bottom: 10px;"><strong>University of Calgary</strong>, Postdoctoral Researcher, Jun 2023 -- present</summary>
+  <li>Investigating the benefits of inductive bias for computer vision tasks with deep neural networks.</li>
+</details>
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
