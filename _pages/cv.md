@@ -55,6 +55,15 @@ Work experience
 
 Publications
 ======
+<ul>
+  <li>
+    <strong>TT&#773;-deformed scattering happens within matrices</strong><br>
+    V. Shyam and Y. Yargic<br>
+    <a href="[url](https://arxiv.org/abs/2209.11753)">J. High Energ. Phys. 2023, 132 (2023)</a><br>
+    [J. High Energ. Phys. 2023, 132 (2023)](https://arxiv.org/abs/2209.11753)<br>
+  </li>
+</ul>
+  
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
