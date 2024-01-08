@@ -11,10 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, University of Waterloo & Perimeter Institute, 2021
-* M.Sc in Physics, University of Waterloo & Perimeter Institute, 2017
-* M.Sc in Theoretical and Mathematical Physics, LMU Munich & Max Planck Institute, 2016
-* B.Sc in Physics, LMU Munich, 2014
+<ul>
+  <li>
+    <strong>Ph.D in Physics</strong>, University of Waterloo & Perimeter Institute<br>
+    Sep 2017 - Aug 2021
+  </li>
+  <li>
+    <strong>M.Sc in Physics</strong>, University of Waterloo & Perimeter Institute<br>
+    Aug 2016 - Aug 2017
+  </li>
+  <li>
+    <strong>M.Sc in Theoretical and Mathematical Physics</strong>, LMU Munich & Max Planck Institute<br>
+    Oct 2014 - Jul 2016
+  </li>
+  <li>
+    <strong>B.Sc in Physics</strong>, LMU Munich<br>
+    Oct 2011 - Sep 2014
+  </li>
+</ul>
 
 Work experience
 ======
